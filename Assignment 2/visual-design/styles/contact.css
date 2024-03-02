@@ -1,0 +1,982 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.contact-48f {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.contact-48f .header-oM9 {
+  box-sizing: border-box;
+  padding: 2.9rem 10rem 2.9rem 5.4rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-2-tNb {
+  width: 43rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 0.9rem;
+  display: flex;
+  column-gap: 7.5rem;
+  align-items: center;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-2-tNb .home-Q63 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-2-tNb .shop-vq5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-2-tNb .about-ULo {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-2-tNb .contact-R19 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq {
+  box-sizing: border-box;
+  padding-right: 0.1796rem;
+  width: 128.6rem;
+  height: 4.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .frame-168-4K1 {
+  margin-right: 85.6333rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .frame-168-4K1 .meubel-houselogos-05-p3H {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 5rem;
+  height: 3.2rem;
+  background-size: 154% 240.625%;
+  background-position: -1.3rem -2.2rem;
+  background-image: url('../assets/meubel-houselogos-05-bg-7qh.png');
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .frame-168-4K1 .meubel-houselogos-05-p3H .meubel-houselogos-05-p3H-bg {
+  width: 5rem;
+  height: 3.2rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:2727769ba74736d502746301ed573ed8940fc322');
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .frame-168-4K1 .skinclinic-3wd {
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .mdi-account-alert-outline-z6B {
+  margin: 0rem 4.967rem 0rem 0rem;
+  width: 2.3333rem;
+  height: 1.8667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .akar-icons-search-VHq {
+  margin: 0rem 5.083rem 0.117rem 0rem;
+  width: 2.2167rem;
+  height: 2.2167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .akar-icons-heart-1my {
+  margin: 0rem 4.901rem 0.019rem 0rem;
+  width: 2.3333rem;
+  height: 2.0806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .header-oM9 .group-168-jEo .group-1-9hq .ant-design-shopping-cart-outlined-kDm {
+  margin-top: 0.1168rem;
+  width: 2.453rem;
+  height: 2.2058rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q {
+  box-sizing: border-box;
+  padding: 6.1rem 62.2rem 9.7rem 62.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  filter: blur(0.3rem);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q .group-55-nRM {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  height: 13.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q .group-55-nRM .contact-X83 {
+  width: 19.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 6.1rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-48f .group-78-f5q .group-55-nRM .meubel-houselogos-05-Qhd {
+  width: 7.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.contact-48f .group-78-f5q .group-56-6qM {
+  margin: 0rem 1.3rem 0rem 3.8rem;
+  width: calc(100% - 5.1rem);
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q .group-56-6qM .home-BM1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q .group-56-6qM .dashicons-arrow-down-alt2-JRd {
+  width: 0.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .group-78-f5q .group-56-6qM .contact-S23 {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh {
+  box-sizing: border-box;
+  padding: 9.8rem 19.1rem 0rem 19.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .get-in-touch-with-us-s7M {
+  margin: 0rem 0rem 0.7rem 0.1rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .for-more-information-about-our-product-services-please-feel-free-to-drop-us-an-email-our-staff-always-be-there-to-help-you-out-do-not-hesitate-YzB {
+  margin-bottom: 1.4rem;
+  max-width: 62.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB {
+  width: 100%;
+  height: 92.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K {
+  margin: 6.8rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 4.612rem 7.4rem 4.7rem 4.975rem;
+  width: 39.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-cngf-EEj {
+  margin: 0rem 11.4rem 0rem 0.425rem;
+  width: calc(100% - 11.825rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-cngf-EEj .vector-Mq9 {
+  margin-right: 3rem;
+  width: 2.2rem;
+  height: 2.7592rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-cngf-EEj .address-7xj {
+  margin-top: 1.188rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .th-se-avenue-new-york-ny10000-united-states-qtj {
+  margin: 0rem 0rem 4.2rem 3.125rem;
+  max-width: 18.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-mvcp-XFm {
+  margin-right: 13.7rem;
+  width: calc(100% - 13.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-mvcp-XFm .bxs-phone-4mV {
+  margin: 0.023rem 3.398rem 0rem 0rem;
+  width: 2.2268rem;
+  height: 2.2268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-mvcp-XFm .phone-azj {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .mobile-84-546-6789-hotline-84-456-6789-KxK {
+  margin: 0rem 0rem 1.8rem 3.425rem;
+  max-width: 19.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-m4jb-E3h {
+  margin: 0rem 4.7rem 0rem 0.325rem;
+  width: calc(100% - 5.025rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-m4jb-E3h .bi-clock-fill-MPD {
+  margin: 0rem 3rem 0.1rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .auto-group-m4jb-E3h .working-time-UTq {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-155-x2K .monday-friday-9-00-22-00-saturday-sunday-9-00-21-00-Q6b {
+  margin-left: 5.625rem;
+  max-width: 21.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h {
+  box-sizing: border-box;
+  padding: 11.9rem 5.2rem 6.3rem 5.2rem;
+  width: 63.5rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-112-NSj {
+  margin: 0rem 0rem 3.6rem 0.1rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-112-NSj .your-name-uhZ {
+  margin-bottom: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-112-NSj .auto-group-nqfy-3Hy {
+  margin-left: 0.125rem;
+  box-sizing: border-box;
+  padding: 2.6rem 2.975rem 2.5rem 2.975rem;
+  width: 52.875rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-113-Tcb {
+  margin: 0rem 0rem 3.6rem 0.1rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-113-Tcb .email-address-bD1 {
+  margin-bottom: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-113-Tcb .auto-group-ejz9-8Cw {
+  margin-left: 0.125rem;
+  box-sizing: border-box;
+  padding: 2.6rem 2.975rem 2.5rem 2.975rem;
+  width: 52.875rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-156-P8s {
+  margin: 0rem 0rem 3.6rem 0.3rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-156-P8s .subject-jCj {
+  margin-bottom: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-156-P8s .auto-group-agz5-TuR {
+  margin-left: 0.1245rem;
+  box-sizing: border-box;
+  padding: 2.6rem 2.975rem 2.5rem 2.975rem;
+  width: 52.6755rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-157-5vo {
+  margin-bottom: 4.9rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-157-5vo .message-qf5 {
+  margin-bottom: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-157-5vo .auto-group-yyip-Nuu {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding: 2.6rem 3rem;
+  width: 52.7rem;
+  height: 12rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-48f .group-162-wDh .group-161-zrB .group-160-h5h .group-159-cyM .group-21-pG7 {
+  margin-left: 0.7rem;
+  width: 23.7rem;
+  height: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #b88e2f;
+  box-sizing: border-box;
+  background-color: #b88e2f;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 10rem 5.3rem 8.5rem 5.3rem;
+  width: 100%;
+  height: 27rem;
+  background-color: #faf3ea;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-5-XJw {
+  margin-right: 5.4333rem;
+  box-sizing: border-box;
+  padding-left: 0.3614rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-5-XJw .trophy-1-GGX {
+  margin-right: 1.3614rem;
+  width: 5.2772rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-5-XJw .text-QNj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-5-XJw .text-QNj .high-quality-NKZ {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-5-XJw .text-QNj .crafted-from-top-materials-6mM {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF .guarantee-neB {
+  margin: 0.594rem 0.1rem 0rem 0rem;
+  width: 6rem;
+  height: 5.8125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF .auto-group-mftv-7RZ {
+  box-sizing: border-box;
+  padding-left: 0.9rem;
+  width: 26.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF .auto-group-mftv-7RZ .text-rtw {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  flex-direction: column;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF .auto-group-mftv-7RZ .text-rtw .warranty-protection-RBM {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .frame-19-pxF .auto-group-mftv-7RZ .text-rtw .over-2-years-MKu {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b {
+  box-sizing: border-box;
+  padding-left: 5.5334rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-2-SMM {
+  margin-right: 5.5333rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-2-SMM .shipping-ng7 {
+  margin: 0rem 1rem 0rem 0rem;
+  width: 6rem;
+  height: 5.5971rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-2-SMM .text-vXR {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-2-SMM .text-vXR .free-shipping-5fD {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-2-SMM .text-vXR .order-over-150--cv3 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-4-kmM {
+  box-sizing: border-box;
+  padding-left: 0.3529rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-4-kmM .customer-support-767 {
+  margin-right: 1.353rem;
+  width: 5.2941rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-4-kmM .text-qXu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-4-kmM .text-qXu .support-c2s {
+  margin-bottom: 0.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #242424;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .frame-161-eF9 .feature-AzB .auto-group-eh7m-62b .frame-4-kmM .text-qXu .dedicated-support-XvX {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu {
+  box-sizing: border-box;
+  padding: 4.8rem 9.999rem 3.8rem 10rem;
+  width: 100%;
+  height: 50.5rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1700000018);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu {
+  margin: 0rem 10.7rem 4.8rem 0rem;
+  width: calc(100% - 10.7003rem);
+  height: 31.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .auto-group-qais-gS3 {
+  margin-right: 13.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .auto-group-qais-gS3 .funiro-SAK {
+  margin-bottom: 5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .auto-group-qais-gS3 .university-drive-suite-200-coral-gables-fl-33134-usa-NJs {
+  margin-left: 0.2008rem;
+  max-width: 28.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby {
+  margin-right: 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf {
+  margin-right: 14.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .links-xH5 {
+  margin-bottom: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .group-24-V27 {
+  margin-left: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .group-24-V27 .home-33d {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .group-24-V27 .shop-yhy {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .group-24-V27 .about-vdD {
+  margin-bottom: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-26-Pzf .group-24-V27 .contact-sYT {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 {
+  width: 14rem;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 .help-mtj {
+  margin-bottom: 5.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 .group-25-iZ5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 .group-25-iZ5 .payment-options-5Pd {
+  margin-bottom: 4.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 .group-25-iZ5 .returns-yzo {
+  margin-bottom: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-28-Eby .group-27-cW3 .group-25-iZ5 .privacy-policies-jDH {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq {
+  margin-top: 0.2rem;
+  width: 28.6004rem;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .newsletter-1gb {
+  margin-bottom: 5.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .group-29-ku5 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .group-29-ku5 .auto-group-ws5h-6T9 {
+  margin: 0rem 0rem 0.3rem 0rem;
+  width: calc(100% - 0.0004rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .group-29-ku5 .auto-group-ws5h-6T9 .enter-your-email-address-pe3 {
+  margin-right: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9f9f9f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .group-29-ku5 .auto-group-ws5h-6T9 .subscribe-kXh {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-32-9wu .group-31-sWX .group-30-fMq .group-29-ku5 .auto-group-ncz5-HnX {
+  width: 100%;
+  height: 0.1rem;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.contact-48f .footer-rhu .group-45-bQb .group-44-boD {
+  box-sizing: border-box;
+  padding: 3.5rem 0.201rem 0rem 0.201rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-top: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}

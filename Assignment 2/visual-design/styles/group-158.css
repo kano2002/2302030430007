@@ -1,0 +1,28 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 28rem;
+}.group-158-6Aj {
+  width: 100%;
+  height: 17.7rem;
+  border-radius: 1rem;
+}
+.group-158-6Aj .rectangle-40-E23 {
+  width: 100%;
+  height: 17.7rem;
+  border: solid 0.1rem #d6d6d6;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
